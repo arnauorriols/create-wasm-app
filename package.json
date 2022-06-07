@@ -1,6 +1,6 @@
 {
   "name": "create-wasm-webpack-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "create an app to consume rust-generated wasm packages with webpack",
   "main": "index.js",
   "bin": {
